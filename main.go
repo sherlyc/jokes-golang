@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/contrib/static"
 	"github.com/gin-gonic/gin"
-	"github.com/sherlyc/jokes-golang/jokes"
+	"github.com/sherlyc/golang-gin/jokes"
 )
 
 func main() {
